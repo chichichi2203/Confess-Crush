@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Hello anh",
+    introTitle: 'Yêu của em',
+    introDesc: `Chàng học viên từng của cô ấy
+    Giờ đây là chàng sĩ quan của em`,
+    btnIntro: 'Anh ơi',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười em ',
+    btnYes: 'Yêu em',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'Thế giới này nhiều người như thế tại sao anh lại yêu em nhỉ <3',
+    btnReply: 'Em bảo này <3',
+    reply: 'DOVE-Do yOu loVe me? Anh có yêu em không <33333333',
+    mess: 'Trả lời em',
+    messDesc: 'Lúc nào cũng được, hãy nhắn tin cho em khi anh rảnh nhé, bất cứ khi nào',
+    btnAccept: 'Yêu em <3',
+    messLink: 'https://www.messenger.com/t/100052824681391' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
