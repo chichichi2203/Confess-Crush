@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Hello anh",
     introTitle: 'Yêu của em',
-    introDesc: `Chàng học viên từng của cô ấy\n \Giờ đây là chàng sĩ quan `,
+    introDesc: `Chàng học viên từng của cô ấy\r \Giờ đây là chàng sĩ`,
     btnIntro: 'Anh ơi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười em ',
